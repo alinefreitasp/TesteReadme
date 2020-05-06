@@ -12,7 +12,9 @@ https://whimsical.com/8TwE2n7S1MRTSYjEETUdyt
 **Templates e Protótipos Navegáveis:**
 https://www.figma.com/file/MrlIzN1VT0cw2JZDMZRpVc/%5BPTRF%5D-sprint02?node-id=128%3A30
 
-1. [teste de sublinhado]
+1. [teste de sublinhado](#teste-de-identação) 
+2. [teste de sublinhado](#teste2) 
+
 
 ### Teste de identação
 
